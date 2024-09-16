@@ -1,0 +1,23 @@
+# https://cowboycutsusa.com/
+# https://www.northamericanlocal.com/acp
+# https://booksy.com/en-us/#ba_s=seo
+# https://www.golocalvr.com/
+# https://www.mylocalservices.com/
+# https://rediusa.com/services/portable-toilets/
+# https://mediabiasfactcheck.com/politifact/
+   
+
+
+# API: 
+# urlsearch: http://127.0.0.1:8000/scrapping/loademail/emailsearch/
+
+# {
+#     "url": "url",
+#     "user": userid
+# }
+# search limit: 3
+# user history: http://127.0.0.1:8000/scrapping/pasthistory/?user={userid}
+
+# registration: http://127.0.0.1:8000/user/profile/newuser/
+# login : http://127.0.0.1:8000/user/profile/login/
+# logout: http://127.0.0.1:8000/user/profile/logout/
